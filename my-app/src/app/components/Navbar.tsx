@@ -35,7 +35,7 @@ const Navbar: React.FC = () => {
     // console.log(balance, "========inside withdraw===")
 
     await (await questContract.mint(address, ethers.parseUnits(parseInt(charge).toString(), 18))).wait();
-    // alert('Withdraw your earned AIA coins!');
+    // alert('Withdraw your earned EVO coins!');
     // await (await bounceContract.transfer(address, ethers.utils.parseUnits(charge.toString(), 18))).wait();
   }
   const connectWallet = async () => {

@@ -14,11 +14,11 @@ pnpm dev
 bun dev
 ```
 
-# EVION BUILD ON AIA TESTNET
+# EVION BUILD ON LINEA SEPOLIA TESTNET
 
 CONTRACT ADDRESS 0x683Bc19bDd68df5F3Ec1d09109887F2ee9AD50a5
 
-[VERIFY EVO](https://testnet.aiascan.com/token/0x683Bc19bDd68df5F3Ec1d09109887F2ee9AD50a5)
+[VERIFY EVO](https://sepolia.lineascan.build/address/0x683bc19bdd68df5f3ec1d09109887f2ee9ad50a55)
 
 ------------
 

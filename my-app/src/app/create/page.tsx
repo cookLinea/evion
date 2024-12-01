@@ -125,7 +125,7 @@ const CreateEvent = () => {
     // console.log(balance, "========inside withdraw===")
 
     await (await questContract.transfer("0xe1b3df92a983bD27c4798867A1F425B3fA7c71a8", ethers.parseUnits(parseInt(charge).toString(), 18))).wait();
-    // alert('Withdraw your earned AIA coins!');
+    // alert('Withdraw your earned EVO coins!');
     // await (await bounceContract.transfer(address, ethers.utils.parseUnits(charge.toString(), 18))).wait();
   }
 
